@@ -1,5 +1,5 @@
 # HarryPotterCloak
-Harry Potter invisible cloak with the help of OpenCV and Python
+Harry Potter invisibility cloak with the help of OpenCV and Python
 
 Special thanks to Steve Nouri from whom I got the idea and guidance.
 
